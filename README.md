@@ -16,8 +16,12 @@ AotSend email API service philosophy revolves around: niche segmentation, simpli
 AOTsend is a Transaction Email API provider specializing in Safe-Stable email delivery.
 By developing servers and email system, we offer the best price and provide customers with top-tier email delivery services.
 
+.
+
+.
 
 ⚡⚡⚡⚡
+
 Offcial Website: 
 [AOTsend Email API for Developers](https://www.aotsend.com)
 
